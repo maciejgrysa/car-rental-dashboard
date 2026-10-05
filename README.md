@@ -15,15 +15,10 @@ Lightweight Django operations panel for a vehicle-rental business.
 ## Stack
 Python 3.13, Django 5, SQLite for local/demo use.
 
-## Run
-- uv sync
-- uv run python manage.py migrate
-- uv run python manage.py zasiej
-- uv run python manage.py runserver 8002
+## Source access
 
-All public demo data is synthetic. Local databases are excluded from Git.
+The complete implementation is kept in a private source archive. For serious commercial discussions, a live walkthrough, architecture review, or controlled private code review can be arranged.
 
 ## Usage and licensing
 
-This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [LICENSE.md](LICENSE.md).
-
+This repository is source-available for portfolio evaluation. You may inspect the code and run an unmodified local copy for evaluation, but commercial use, redistribution, republishing and derivative distribution are not permitted without written permission. See [PROPRIETARY-NOTICE.md](PROPRIETARY-NOTICE.md).
